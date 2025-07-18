@@ -1,11 +1,11 @@
 {
     "@id": "https://w3id.org/Derive-Data-Glasgow",
-    "type": "FeatureCollection",
+    "type": "GeometryCollection",
     "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
     "features": [
         {
             "@id": "Derive-Glasgow-T2-Orange-00001 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00001 ",
                 "collection": "UKIE-DH-2025",
@@ -33,7 +33,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00002 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00002 ",
                 "collection": "UKIE-DH-2025",
@@ -61,7 +61,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00003 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00003 ",
                 "collection": "UKIE-DH-2025",
@@ -89,7 +89,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00004 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00004 ",
                 "collection": "UKIE-DH-2025",
@@ -117,7 +117,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00005 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00005 ",
                 "collection": "UKIE-DH-2025",
@@ -145,7 +145,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00006 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00006 ",
                 "collection": "UKIE-DH-2025",
@@ -173,7 +173,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00007 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00007 ",
                 "collection": "UKIE-DH-2025",
@@ -201,7 +201,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00008 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00008 ",
                 "collection": "UKIE-DH-2025",
@@ -229,7 +229,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00009 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00009 ",
                 "collection": "UKIE-DH-2025",
@@ -257,7 +257,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00010 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00010 ",
                 "collection": "UKIE-DH-2025",
@@ -285,7 +285,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00011 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00011 ",
                 "collection": "UKIE-DH-2025",
@@ -313,7 +313,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00012 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00012 ",
                 "collection": "UKIE-DH-2025",
@@ -341,7 +341,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00013 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00013 ",
                 "collection": "UKIE-DH-2025",
@@ -369,7 +369,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00014 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00014 ",
                 "collection": "UKIE-DH-2025",
@@ -397,7 +397,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00015 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00015 ",
                 "collection": "UKIE-DH-2025",
@@ -425,7 +425,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00016 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00016 ",
                 "collection": "UKIE-DH-2025",
@@ -453,7 +453,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00017 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00017 ",
                 "collection": "UKIE-DH-2025",
@@ -481,7 +481,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00018 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00018 ",
                 "collection": "UKIE-DH-2025",
@@ -509,7 +509,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00019 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00019 ",
                 "collection": "UKIE-DH-2025",
@@ -537,7 +537,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00020 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00020 ",
                 "collection": "UKIE-DH-2025",
@@ -565,7 +565,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00021 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00021 ",
                 "collection": "UKIE-DH-2025",
@@ -593,7 +593,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00022 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00022 ",
                 "collection": "UKIE-DH-2025",
@@ -621,7 +621,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00023 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00023 ",
                 "collection": "UKIE-DH-2025",
@@ -649,7 +649,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00024 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00024 ",
                 "collection": "UKIE-DH-2025",
@@ -677,7 +677,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00025 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00025 ",
                 "collection": "UKIE-DH-2025",
@@ -705,7 +705,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00026 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00026 ",
                 "collection": "UKIE-DH-2025",
@@ -733,7 +733,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00027 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00027 ",
                 "collection": "UKIE-DH-2025",
@@ -761,7 +761,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00028 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00028 ",
                 "collection": "UKIE-DH-2025",
@@ -789,7 +789,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00029 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00029 ",
                 "collection": "UKIE-DH-2025",
@@ -817,7 +817,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00030 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00030 ",
                 "collection": "UKIE-DH-2025",
@@ -845,7 +845,7 @@
         },
         {
             "@id": "Derive-Glasgow-T2-Orange-00031 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T2-Orange-00031 ",
                 "collection": "UKIE-DH-2025",
@@ -873,7 +873,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00001 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00001 ",
                 "collection": "UKIE-DH-2025",
@@ -901,7 +901,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00002 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00002 ",
                 "collection": "UKIE-DH-2025",
@@ -929,7 +929,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00003 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00003 ",
                 "collection": "UKIE-DH-2025",
@@ -957,7 +957,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00004 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00004 ",
                 "collection": "UKIE-DH-2025",
@@ -985,7 +985,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00005 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00005 ",
                 "collection": "UKIE-DH-2025",
@@ -1013,7 +1013,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00006 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00006 ",
                 "collection": "UKIE-DH-2025",
@@ -1041,7 +1041,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00007 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00007 ",
                 "collection": "UKIE-DH-2025",
@@ -1069,7 +1069,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00008 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00008 ",
                 "collection": "UKIE-DH-2025",
@@ -1097,7 +1097,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00009 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00009 ",
                 "collection": "UKIE-DH-2025",
@@ -1125,7 +1125,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00010 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00010 ",
                 "collection": "UKIE-DH-2025",
@@ -1153,7 +1153,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00011 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00011 ",
                 "collection": "UKIE-DH-2025",
@@ -1181,7 +1181,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00012 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00012 ",
                 "collection": "UKIE-DH-2025",
@@ -1209,7 +1209,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00013 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00013 ",
                 "collection": "UKIE-DH-2025",
@@ -1237,7 +1237,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00014 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00014 ",
                 "collection": "UKIE-DH-2025",
@@ -1265,7 +1265,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00015 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00015 ",
                 "collection": "UKIE-DH-2025",
@@ -1293,7 +1293,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00016 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00016 ",
                 "collection": "UKIE-DH-2025",
@@ -1321,7 +1321,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00017 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00017 ",
                 "collection": "UKIE-DH-2025",
@@ -1349,7 +1349,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00018 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00018 ",
                 "collection": "UKIE-DH-2025",
@@ -1377,7 +1377,7 @@
         },
         {
             "@id": "Derive-Glasgow-T1-Blue-00019 ",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Derive-Glasgow-T1-Blue-00019 ",
                 "collection": "UKIE-DH-2025",
@@ -1405,7 +1405,7 @@
         },
         {
             "@id": "PH-Y-00303-E-000-00267",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Jamaica Street Bridge Glasgow (Y303E/264)",
                 "collection": "University of Cambridge",
@@ -1432,7 +1432,7 @@
         },
         {
             "@id": "A.907.3",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Boot, woman's (A.907.3)",
                 "collection": "National Museums Scotland",
@@ -1454,7 +1454,7 @@
         },
         {
             "@id": "A.1977.737.1",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Woman's bodice in purple silk (A.1977.737.1)",
                 "collection": "National Museums Scotland",
@@ -1476,7 +1476,7 @@
         },
         {
             "@id": "A.1977.737.1",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Woman's bodice in purple silk (A.1977.737.1)",
                 "collection": "National Museums Scotland",
@@ -1498,7 +1498,7 @@
         },
         {
             "@id": "OG.1948.68",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Season Ticket for 'Kibble Crystal Art Palace' (OG.1948.68)",
                 "collection": "Glasgow Museums",
@@ -1520,7 +1520,7 @@
         },
         {
             "@id": "Folio A 2010 24",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Glasgow looking glass",
                 "collection": "Yale Center for British Art",
@@ -1547,7 +1547,7 @@
         },
         {
             "@id": "SY Carola",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Steam yacht, SY Carola",
                 "collection": "Scottish Maritime Museum",
@@ -1569,7 +1569,7 @@
         },
         {
             "@id": "Laocoon (1059)",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Laocoon (1059)",
                 "collection": "Vatican Museums/Digital Sculpture Project",
@@ -1591,7 +1591,7 @@
         },
         {
             "@id": "The Parthenon",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "The Parthenon",
                 "collection": "Théo Derory",
@@ -1613,7 +1613,7 @@
         },
         {
             "@id": "Wellington",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Duke of Wellington",
                 "collection": "statuevision",
@@ -1635,7 +1635,7 @@
         },
         {
             "@id": "Broomielaw",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Broomielaw Ship Relief, Glasgow",
                 "collection": "Andras Sandor",
@@ -1657,7 +1657,7 @@
         },
         {
             "@id": "John Kibble",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "John Kibble (1815-1894)",
                 "collection": "The Glasgow Story",
@@ -1679,7 +1679,7 @@
         },
         {
             "@id": "Bodleian Library Mus. 400 b.2 (22)",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "The City of Glasgow Polka",
                 "collection": "Bodleian Libraries",
@@ -1706,7 +1706,7 @@
         },
         {
             "@id": "Handel",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Music for the Royal Fireworks",
                 "collection": "MusicalConcepts",
@@ -1728,7 +1728,7 @@
         },
         {
             "@id": "Galop",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Galop (from “Dance of the Hours”)",
                 "collection": "Musescore",
@@ -1750,7 +1750,7 @@
         },
         {
             "@id": "The Owl of Minerva",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "The Owl of Minerva",
                 "collection": "The Tenementals",
@@ -1772,7 +1772,7 @@
         },
         {
             "@id": "GLAHA:51445",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Roots and Rocks. Botanic Garden, Glasgow",
                 "collection": "University of Glasgow ",
@@ -1794,7 +1794,7 @@
         },
         {
             "@id": "The Suffrage Oak",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "The Suffrage Oak",
                 "collection": "Wikipedia",
@@ -1821,7 +1821,7 @@
         },
         {
             "@id": "Folio A 2010 24",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Glasgow looking glass",
                 "collection": "Yale Center for British Art",
@@ -1848,7 +1848,7 @@
         },
         {
             "@id": "The Owl of Minerva",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "The Owl of Minerva",
                 "collection": "The Tenementals",
@@ -1870,7 +1870,7 @@
         },
         {
             "@id": "Bodleian Library Mus. 400 b.2 (22)",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "The City of Glasgow Polka",
                 "collection": "Bodleian Libraries",
@@ -1897,7 +1897,7 @@
         },
         {
             "@id": "GLAHM:23259",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Frances Melville Medal",
                 "collection": "University of Glasgow ",
@@ -1918,7 +1918,7 @@
         },
         {
             "@id": "NPG x105373",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Dame Louisa Innes Lumsden ",
                 "collection": "National Portrait Gallery",
@@ -1940,7 +1940,7 @@
         },
         {
             "@id": "Louisa Lumsden",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Louisa Lumsden",
                 "collection": "Wikipedia",
@@ -1962,7 +1962,7 @@
         },
         {
             "@id": "Wellington",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Duke of Wellington",
                 "collection": "statuevision",
@@ -1983,7 +1983,7 @@
         },
         {
             "@id": "PH-Y-00303-E-000-00266",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Duke of Wellington, Exchange, Glasgow (Y303E/263)",
                 "collection": "University of Cambridge",
@@ -2010,7 +2010,7 @@
         },
         {
             "@id": "Traffic Cone 3",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Traffic Cone 3",
                 "collection": "IrisBox",
@@ -2031,7 +2031,7 @@
         },
         {
             "@id": "GB 248 GUA",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Gilbert Scott Building",
                 "collection": "University of Glasgow ",
@@ -2052,7 +2052,7 @@
         },
         {
             "@id": "6Anrt",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "University of Glasgow Main Building",
                 "collection": "debmayers24",
@@ -2073,7 +2073,7 @@
         },
         {
             "@id": "Traffic Cone 2",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Traffic Cone 2",
                 "collection": "IrisBox",
@@ -2094,7 +2094,7 @@
         },
         {
             "@id": "1876-1129",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Tide Predicting Machine",
                 "collection": "The Science Museum Group",
@@ -2121,7 +2121,7 @@
         },
         {
             "@id": "GLAHM:113557/1",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Tide Gauge, Thomson, 1st Baron William Lord Kelvin of Largs",
                 "collection": "University of Glasgow ",
@@ -2143,7 +2143,7 @@
         },
         {
             "@id": "GB 247 Photo B12/81",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Govan Ferry, photo",
                 "collection": "University of Glasgow ",
@@ -2165,7 +2165,7 @@
         },
         {
             "@id": "GLAHA:43225",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "\"Govan Ferry\", drawing",
                 "collection": "University of Glasgow ",
@@ -2187,7 +2187,7 @@
         },
         {
             "@id": "APT17",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Docks, Port Glasgow (APT17)",
                 "collection": "University of Cambridge",
@@ -2214,7 +2214,7 @@
         },
         {
             "@id": "GB 248 UGD 241",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Harland & Wolff plc shipyard, Govan, City of Glasgow",
                 "collection": "University of Glasgow ",
@@ -2236,7 +2236,7 @@
         },
         {
             "@id": "GB 247 Photo B12/83",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Thatched houses, Ferry Road, Govan",
                 "collection": "University of Glasgow ",
@@ -2258,7 +2258,7 @@
         },
         {
             "@id": "GB 247 Photo B12/84",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Hogback gravestones, Govan churchyard",
                 "collection": "University of Glasgow ",
@@ -2280,7 +2280,7 @@
         },
         {
             "@id": "6XTCp",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "The Govan Sarcophagus - Govan 1",
                 "collection": "The Govan Stones",
@@ -2301,7 +2301,7 @@
         },
         {
             "@id": "6XTQr",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Hogback Stone - Govan 2",
                 "collection": "The Govan Stones",
@@ -2322,7 +2322,7 @@
         },
         {
             "@id": "GB 248 DC 140",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Scottish Marxist (Winter 1978)",
                 "collection": "University of Glasgow ",
@@ -2344,7 +2344,7 @@
         },
         {
             "@id": "Peter, Pike or Pink",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Peter, Pike or Pink",
                 "collection": "The Tenementals",
@@ -2366,7 +2366,7 @@
         },
         {
             "@id": "The Owl of Minerva",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "The Owl of Minerva",
                 "collection": "The Tenementals",
@@ -2388,7 +2388,7 @@
         },
         {
             "@id": "1820 Radical War",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "The Radical War",
                 "collection": "National Library of Scotland",
@@ -2410,7 +2410,7 @@
         },
         {
             "@id": "Orange",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Orange",
                 "type": "walking",
@@ -8724,7 +8724,7 @@
         },
         {
             "@id": "Light Blue",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Light Blue",
                 "type": "walking",
@@ -14798,7 +14798,7 @@
         },
         {
             "@id": "Black",
-            "type": "Feature",
+            "type": "Point",
             "properties": {
                 "title": "Black",
                 "type": "walking",
