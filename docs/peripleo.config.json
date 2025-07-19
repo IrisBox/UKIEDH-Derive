@@ -7,24 +7,6 @@
       "format": "LINKED_PLACES",
       "src": "./data/Derive-Data-Glasgow.json",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
-    },
-    {
-      "name": "orange",
-      "format": "LINKED_PLACES",
-      "src": "./data/orange.json",
-      "attribution": ""
-    },
-    {
-      "name": "black",
-      "format": "LINKED_PLACES",
-      "src": "./data/black.json",
-      "attribution": ""
-    },
-    {
-      "name": "blue-light",
-      "format": "LINKED_PLACES",
-      "src": "./data/blue-light.json",
-      "attribution": ""
     }
   ],
   "facets": [
