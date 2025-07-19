@@ -10,20 +10,20 @@
     },
     {
       "name": "orange",
-      "format": "GEOJSON",
-      "src": "./data/orange.geojson",
+      "format": "LINKED_PLACES",
+      "src": "./data/orange.json",
       "attribution": ""
     },
     {
       "name": "black",
-      "format": "GEOJSON",
-      "src": "./data/black.geojson",
+      "format": "LINKED_PLACES",
+      "src": "./data/black.json",
       "attribution": ""
     },
     {
       "name": "blue-light",
-      "format": "GEOJSON",
-      "src": "./data/blue-light.geojson",
+      "format": "LINKED_PLACES",
+      "src": "./data/blue-light.json",
       "attribution": ""
     }
   ],
