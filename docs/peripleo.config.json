@@ -21,14 +21,14 @@
     "name": "Team 2 Riverside", 
     "type": "geojson",
     "src": "./data/orange.json", 
-    "color": "#ffa500",
+    "color": "#ff04ee",
     "stroke-width": 5
   },
     { 
     "name": "Team 3 Kibble Palace", 
     "type": "geojson",
     "src": "./data/black.json", 
-    "color": "#ff04ee",
+    "color": "#000000",
     "stroke-width": 5 
   },
       { 
