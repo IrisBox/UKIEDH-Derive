@@ -14,25 +14,29 @@
     "name": "Team 1 Kelvingrove Park", 
     "type": "geojson",
     "src": "./data/blue-light.json", 
-    "color": "#00fcff" 
+    "color": "#00fcff",
+    "stroke-width": 2 
   },
     { 
     "name": "Team 2 Riverside", 
     "type": "geojson",
     "src": "./data/orange.json", 
-    "color": "#ff9200" 
+    "color": "#ff9200",
+    "stroke-width": 2
   },
     { 
     "name": "Team 3 Kibble Palace", 
     "type": "geojson",
     "src": "./data/black.json", 
-    "color": "#000000" 
+    "color": "#000000",
+    "stroke-width": 2 
   },
       { 
-    "name": "All Routes", 
+    "name": "Unintentional post derive", 
     "type": "geojson",
-    "src": "./data/Derive-Routes-Glasgow.json", 
-    "color": "#FF0000" 
+    "src": "./data/blue-dark.json", 
+    "color": "#0432ff",
+    "stroke-width": 2 
   }
 ],
   "facets": [
