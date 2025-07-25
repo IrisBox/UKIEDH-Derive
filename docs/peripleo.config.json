@@ -15,28 +15,28 @@
     "type": "geojson",
     "src": "./data/blue-light.json", 
     "color": "#3f04ff",
-    "stroke-width": 2 
+    "stroke-width": 3 
   },
     { 
     "name": "Team 2 Riverside", 
     "type": "geojson",
     "src": "./data/orange.json", 
     "color": "#04ff2a",
-    "stroke-width": 2
+    "stroke-width": 3
   },
     { 
     "name": "Team 3 Kibble Palace", 
     "type": "geojson",
     "src": "./data/black.json", 
     "color": "#ff04ee",
-    "stroke-width": 2 
+    "stroke-width": 3 
   },
       { 
     "name": "Unintentional post derive", 
     "type": "geojson",
     "src": "./data/blue-dark.json", 
     "color": "#a704ff",
-    "stroke-width": 2 
+    "stroke-width": 3 
   }
 ],
   "facets": [
