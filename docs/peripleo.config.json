@@ -21,7 +21,7 @@
     "name": "Team 2 Riverside", 
     "type": "geojson",
     "src": "./data/orange.json", 
-    "color": "#ff0486",
+    "color": "#04ff2a",
     "stroke-width": 2
   },
     { 
