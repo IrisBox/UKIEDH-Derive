@@ -14,28 +14,28 @@
     "name": "Team 1 Kelvingrove Park", 
     "type": "geojson",
     "src": "./data/blue-light.json", 
-    "color": "#00fcff",
+    "color": "#3f04ff",
     "stroke-width": 2 
   },
     { 
     "name": "Team 2 Riverside", 
     "type": "geojson",
     "src": "./data/orange.json", 
-    "color": "#ff9200",
+    "color": "#ff0486",
     "stroke-width": 2
   },
     { 
     "name": "Team 3 Kibble Palace", 
     "type": "geojson",
     "src": "./data/black.json", 
-    "color": "#000000",
+    "color": "#ff04ee",
     "stroke-width": 2 
   },
       { 
     "name": "Unintentional post derive", 
     "type": "geojson",
     "src": "./data/blue-dark.json", 
-    "color": "#0432ff",
+    "color": "#a704ff",
     "stroke-width": 2 
   }
 ],
